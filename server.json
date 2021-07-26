@@ -1,0 +1,60 @@
+{
+    "produtos": [
+        {
+            "id": 1,
+            "photo": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-12-purple-select-2021?wid=470&hei=556&fmt=png-alpha&.v=1617130317000",
+            "name": "iPhone",
+            "description": "Descrição do Produto",
+            "price": 5000
+        },
+        {
+            "id": 2,
+            "photo": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-12-purple-select-2021?wid=470&hei=556&fmt=png-alpha&.v=1617130317000",
+            "name": "Galaxy",
+            "description": "Descrição do Produto",
+            "price": 5000
+        },
+        {
+            "id": 3,
+            "photo": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-12-purple-select-2021?wid=470&hei=556&fmt=png-alpha&.v=1617130317000",
+            "name": "Galaxy",
+            "description": "Descrição do Produto",
+            "price": 5000
+        },
+        {
+            "id": 4,
+            "photo": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-12-purple-select-2021?wid=470&hei=556&fmt=png-alpha&.v=1617130317000",
+            "name": "Galaxy",
+            "description": "Descrição do Produto",
+            "price": 5000
+        },
+        {
+            "id": 5,
+            "photo": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-12-purple-select-2021?wid=470&hei=556&fmt=png-alpha&.v=1617130317000",
+            "name": "Galaxy",
+            "description": "Descrição do Produto",
+            "price": 5000
+        },
+        {
+            "id": 6,
+            "photo": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-12-purple-select-2021?wid=470&hei=556&fmt=png-alpha&.v=1617130317000",
+            "name": "Galaxy",
+            "description": "Descrição do Produto",
+            "price": 5000
+        },
+        {
+            "id": 7,
+            "photo": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-12-purple-select-2021?wid=470&hei=556&fmt=png-alpha&.v=1617130317000",
+            "name": "Galaxy",
+            "description": "Descrição do Produto",
+            "price": 5000
+        },
+        {
+            "id": 8,
+            "photo": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-12-purple-select-2021?wid=470&hei=556&fmt=png-alpha&.v=1617130317000",
+            "name": "Galaxy",
+            "description": "Descrição do Produto",
+            "price": 5000
+        }
+    ]
+}
